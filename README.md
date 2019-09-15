@@ -9,7 +9,7 @@ Use this script as a scheduled task or run it manually. You can archive a list o
 
 Here is an example of the file structure after running the script twice:
 
-\---WLA
+<pre>\---WLA
     +---ConstitutionUS
     |   \---2019
     |       \---9
@@ -41,5 +41,5 @@ Here is an example of the file structure after running the script twice:
                         |       index.html
                         |       
                         \---31
-                                index.html
+                                index.html</pre>
                                 
