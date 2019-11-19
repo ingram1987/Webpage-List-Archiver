@@ -1,6 +1,6 @@
 # Webpage-List-Archiver
 Archive a list of webpages/websites by downloading them and storing them locally.
-* Add your list of URLs and their respective shortend names.
+* Add your list of URLs and their respective short names.
 * Edit the $wgetExe & $saveDir variables.  
   
 Wget is required and must be installed (http://gnuwin32.sourceforge.net/packages/wget.htm).
